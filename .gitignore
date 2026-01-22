@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Vite
+shadow-solution/ts-viewer/node_modules/
+shadow-solution/ts-viewer/dist/
+shadow-solution/ts-viewer/.vite/
+
+# Outputs
+shadow-solution/output/
+
+# OS
+.DS_Store
